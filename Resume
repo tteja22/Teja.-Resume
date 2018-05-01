@@ -1,0 +1,76 @@
+Teja						                                        Email: teja4919@gmail.com         AWS DevOps Engineer				                                        Contact: +1(973)-619-4369
+3+ years of experience with DevOps Engineer in building CI/CD pipelines, Infrastructure Automation and Monitoring in AWS including EC2, VPC, ELB, S3, EBS, DynamoDB and Route53, Configuration Management, Application Development and Testing.
+Professional Summary:
+•	Experience with highly availability and scalable infrastructure in AWS Cloud Services, (EC2, S3, ELB, Cloud Watch, SNS, SQS, Glacier, IAM, VPC) and managing security groups on AWS
+•	Working Knowledge on automation for deployment/configuration of different application servers like Web Sphere like Apache, Tomcat and Web Containers like Nginx
+•	Implemented a CI/CD pipeline involving Jenkins and Chef to complete the Automation for Deployment
+•	Good working knowledge of Build script and Automate solutions using various scripting languages like Shell, Python and Ruby
+•	Experience in creating custom VPC's and IAM (Roles, Users, Groups) and attached required policies
+•	Creating S3 buckets and enable the versioning of each object and enabled CORS on multiple buckets to access the cross-regional objects
+•	Planned and implemented VPC’s with multiple Availability Zones and multiple subnets to meet the dynamic IP requirements
+•	Experience in Branching, Tagging and Maintaining the Version across the environments working on Software Configuration Management (SCM) tools like Subversion (SVN) and GIT
+•	Developed Bash script to migrate Unix/Linux servers from LDAP to Active Directory 
+•	Implemented local Ubuntu APT server for hosting custom Debian packages, to automate the configuration of Ubuntu image running on android.
+•	Automate system configuration of application servers using configuration management tools like Docker, Chef and Puppet
+•	Experienced in deploying and configuring Chef Server including Bootstrapping of Chef Client nodes for provisioning and created (Roles, Recipes, Cookbooks and Data Bags) for configuration
+•	Knowledge on creation of Puppet manifest files to install tomcat instances and to manage configuration files for multiple applications.
+•	Container management using Docker by writing Docker files and set up the automated build on Docker HUB.
+•	Creation of custom Docker (Container Images, Tagging and Pushing) the images and creating the Docker Containers and Docker consoles for managing the application lifecycle
+•	Assisted in creating and maintaining Ant build.xml and Maven pom.xml for performing builds 
+•	Converted the SVN repository to a local Git repository and shared the repository with the developers via Bitbucket 
+•	Migrated the development efforts from SVN repositories to Git (Bitbucket Server)
+•	Very Familiar with Linux environments like CentOS, RHEL (OSE), Ubuntu and Windows.
+•	Used Atlassian JIRA as issue tracking and ticketing tool. 
+•	Experience in using the Agile/Scrum and Waterfall testing lifecycle Methodologies. 
+Technical Skills:
+Operating Systems	Centos, Linux, Redhat, Ubuntu, Unix and Windows
+CI/CD Tools	Jenkins, Docker, Chef, and Puppet 
+Build Tools	Maven and ANT
+Source Control Tools	Subversion and GIT 
+Programing Language	Python, Bash, Shell Scripting, Ruby Scripting
+Data Base	Oracle
+Cloud	AWS EC2, VPC, ELB, IAM, SNS, Cloud Watch, S3, Cloud Trail
+Methodologies	Agile, Scrum and Waterfall
+Web Service	Web Logic, Web Sphere, Apache Tomcat, Jboss
+Bug Tracking Tools	Jira
+											       
+Professional Experience:									           Lyons Consulting Group								      May 2017 – Present 
+Role: AWS DevOps Engineer							              
+Responsibilities: 
+•	Created python scripts to automate AWS services which include ELB, web servers, Cloud front distribution, EC2, database and security groups, S3 bucket and application configuration
+•	Configured AWS Identity Access Management (IAM) Group and users for improved login authentication 
+•	Performed S3 bucket creation, policies and on the IAM role-based policies and customizing the JSON template 
+•	Built AWS Cloud Formation templates to create custom sized VPC, subnets, NAT to ensure successful deployment of web applications and database templates 
+•	Create read replicas of AWS RDS-MySQL DN in various regions and Availability Zones using backups and snapshots
+•	Created S3 versioning and lifecycle policies, backup files and archive files in Glacier
+•	Used Amazon Route53 to manage DNS zones and give public DNS names to Elastic Load Balancer IP's
+•	Created route tables to route traffic to fid whether it is public or private network
+•	Installed, Configured and Administered Jenkins continuous integration tool
+•	From source control of Git we clone the data into our local server.
+•	Worked on provisioning AWS and deploy Chef and Jenkins to completely provision and manage the instances
+•	Worked on scheduling the Chef Nodes convergence using Linux Cron jobs.
+•	Used Weblogic as application server for deploying the Artifacts
+•	ANT and Maven used as build tools in Jenkins to move from one environment to other environment and automated weekly releases for compiling java code, debugging and placing builds into Maven repository
+•	Work with Docker for convenient environment setup for development and testing 
+•	Developed Chef Cookbooks to management of hosted instances within AWS. Configuring and Networking of Virtual Private Cloud(VPC)
+•	Involved in supporting cloud instances running Linux and Windows on AWS.
+Environment: AWS, EC2, ELB, VPC, S3, IAM, RDS, Route53, EBS, Cloud watch, Cloud Formation, Glacier, Chef, Docker, Linux, ANT, Maven, Git, Python Scripting, Windows.
+JP Chase- Chicago								      Oct 2015- May 2017 Role: AWS DevOps Engineer 								                 Responsibilities: 
+•	As part of DevOps Team, Analyze the existing Projects Build and Release Process and provide the necessary improvements and Automation avoiding repetitive manual tasks. 
+•	Used Jenkins for automating Builds and Automating Deployments 
+•	Designed DevOps workflow for multiple applications by Build, Release and Deploy phases through various CI/CD pipelines using Git, Jenkins, Chef. 
+•	Migrating servers with the required configurations changes and testing and deploying the machines using Chef commands. 
+•	Used ANT and MAVEN as a build tools on java projects for the development of build Artifacts on the source code.
+•	Involved in migration from SVN to GIT repos and worked with Linux system admins for the same.
+•	Developed Linux, UNIX, Perl and Shell Scripts for manual deployment of the code to various environments
+•	Worked with the development team to generate deployment profiles (jar, war, ear) using ANT Scripts and Jenkins.
+•	Created the naming strategy for branches and labels and implemented continuous integration system with Git version control repository. 
+•	Responsible for design and maintenance of the GIT Repositories, views, and the access control strategies. 
+•	Jira used for ticket raising and work flow tool
+•	Installed and Configured the Nexus repository manager for sharing the artifacts within the company
+•	Releasing code to testing regions or staging areas as per the schedule published
+•	Managed and Created Apache Tomcat Run Environments on Linux and windows platform
+•	Automating the tasks using Chef cookbooks, bash scripting. 
+•	Assisted the end-to-end release process, from the planning of release content. 
+Environment: Unix/Linux, Jenkins, Bash, shell Scripting, Java, Jfrog Artifactory, Jira, GIT, Maven, Ant, Gradle, Apache Tomcat, AWS, EC2, VPC and ELB
+Education:										                  Missouri Western State University							           Dec-2017 Master of Information Technology Administrative Assurance				            3.3GPA			
